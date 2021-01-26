@@ -1,0 +1,8 @@
+1)Install python and have required libraries like Pandas,Numpy, Seabor, BeatifulSoup,CSV, Matplotlib, Seaborn,Python Profiling.
+2)Go to My Orders Sections of Flipkart and Save that Page as HTML
+3)Go to FK Scrape Python Notebook and use the Saved Web Page.
+4)After running that, It will create CSV file containing all order details .
+5)Run Flipkart Dataset Notebook to get all the insights.
+
+P.S :-Still in Developing Mode.
+
